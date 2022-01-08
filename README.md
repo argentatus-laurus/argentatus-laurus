@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @argentatus-laurus
 - 👀 I'm an activist with interest on : Data Science; Cybersecurity; Investigative Journalism; Hacking; Anti-Capitalism; Decentralization;
 - 🌱 I’m currently learning : JavaScript; Penetration Testing (on TryHackMe); Cybersecurity Training;
+- 🐦 You can contact me on my twitter https://twitter.com/Larus4rgentatus
 
 
 
